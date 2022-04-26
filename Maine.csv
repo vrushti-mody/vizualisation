@@ -1,0 +1,30 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,date,Time Period End Date,Value,Number of Respondents,value1,LowCI,HighCI,Confidence Interval,Quartile Range,value2
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,2,13,"Aug 19 - Aug 31, 2020",08/19/2020,08/31/2020,23.1,987,227.997,19.4,27.1,19.4 - 27.1,22.6-26.8,563
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,2,14,"Sep 2 - Sep 14, 2020",09/02/2020,09/14/2020,30.1,949,285.649,24.8,35.8,24.8 - 35.8,22.9-30.1,634
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,2,15,"Sep 16 - Sep 28, 2020",09/16/2020,09/28/2020,21.5,869,186.835,17.1,26.4,17.1 - 26.4,21.4-22.9,712
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,2,16,"Sep 30 - Oct 12, 2020",09/30/2020,10/12/2020,24.9,894,222.606,20.5,29.6,20.5 - 29.6,22.5-32.1,833
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,2,17,"Oct 14 - Oct 26, 2020",10/14/2020,10/26/2020,27.2,774,210.528,23.2,31.6,23.2 - 31.6,24.2-27.2,866
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Oct 28 ��� Dec 21),18,"Oct 28 - Nov 9, 2020",10/28/2020,11/09/2020,21.7,550,119.35,16.9,27.2,16.9 - 27.2,19.8-21.7,1059
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Oct 28 ��� Dec 21),19,"Nov 11 - Nov 23, 2020",11/11/2020,11/23/2020,22.4,680,152.32,18.4,26.8,18.4 - 26.8,22.2-25.0,2734
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Oct 28 ��� Dec 21),20,"Nov 25 - Dec 7, 2020",11/25/2020,12/07/2020,23.4,639,149.526,18.6,28.7,18.6 - 28.7,23.4-25.0,5786
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Oct 28 ��� Dec 21),21,"Dec 9 - Dec 21, 2020",12/09/2020,12/21/2020,27.4,660,180.84,22.2,33.1,22.2 - 33.1,25.6-34.2,9305
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Jan 6 ��� Mar 29),22,"Jan 6 - Jan 18, 2021",01/06/2021,01/18/2021,24.8,585,145.08,19.9,30.3,19.9 - 30.3,24.6-28.5,11431
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Jan 6 ��� Mar 29),23,"Jan 20 - Feb 1, 2021",01/20/2021,02/01/2021,24.4,723,176.412,19.3,30.2,19.3 - 30.2,23.1-24.9,13335
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Jan 6 ��� Mar 29),24,"Feb 3 - Feb 15, 2021",02/03/2021,02/15/2021,23.7,662,156.894,19.4,28.5,19.4 - 28.5,22.9-24.6,12267
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Jan 6 ��� Mar 29),25,"Feb 17 - Mar 1, 2021",02/17/2021,03/01/2021,25.1,682,171.182,20.8,29.9,20.8 - 29.9,24.8-27.9,7628
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Jan 6 ��� Mar 29),26,"Mar 3 - Mar 15, 2021",03/03/2021,03/15/2021,26.8,705,188.94,20.4,33.9,20.4 - 33.9,23.9-29.8,4954
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3 (Jan 6 ��� Mar 29),27,"Mar 17 - Mar 29, 2021",03/17/2021,03/29/2021,26.9,677,182.113,21.2,33.2,21.2 - 33.2,24.2-28.7,5025
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.1,28,"Apr 14 - Apr 26, 2021",04/14/2021,04/26/2021,25.3,641,162.173,20.4,30.8,20.4 - 30.8,23.9-32.3,8769
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.1,29,"Apr 28 - May 10, 2021",04/28/2021,05/10/2021,25.1,810,203.31,20.2,30.5,20.2 - 30.5,24.7-29.7,10155
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.1,30,"May 12 - May 24, 2021",05/12/2021,05/24/2021,24.1,660,159.06,18.6,30.3,18.6 - 30.3,22.6-24.7,9259
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.1,31,"May 26 - Jun 7, 2021",05/26/2021,06/07/2021,24.3,678,164.754,20.1,28.9,20.1 - 28.9,22.9-25.1,6632
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.1,32,"Jun 9 - Jun 21, 2021",06/09/2021,06/21/2021,27.1,629,170.459,21.7,33,21.7 - 33.0,25.0-29.2,3601
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.1,33,"Jun 23 - Jul 5, 2021",06/23/2021,07/05/2021,24.6,685,168.51,19.4,30.5,19.4 - 30.5,23.2-25.0,1640
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.2,34,"Jul 21 - Aug 2, 2021",07/21/2021,08/02/2021,26.7,594,158.598,21.3,32.7,21.3 - 32.7,23.9-26.7,907
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.2,35,"Aug 4 - Aug 16, 2021",08/04/2021,08/16/2021,26,566,147.16,20.4,32.2,20.4 - 32.2,25.9-30.8,1882
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.2,36,"Aug 18 - Aug 30, 2021",08/18/2021,08/30/2021,23.5,606,142.41,18.9,28.6,18.9 - 28.6,23.5-26.5,4207
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.2,37,"Sep 1 - Sep 13, 2021",09/01/2021,09/13/2021,26.7,588,156.996,21.4,32.5,21.4 - 32.5,26.2-29.3,7572
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.2,38,"Sep 15 - Sep 27, 2021",09/15/2021,09/27/2021,27.3,540,147.42,22.9,32,22.9 - 32.0,26.2-30.8,11334
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.2,39,"Sep 29 - Oct 11, 2021",09/29/2021,10/11/2021,23.4,508,118.872,19.5,27.7,19.5 - 27.7,20.8-24.1,13372
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.3,40,"Dec 1 - Dec 13, 2021",12/01/2021,12/13/2021,31.2,745,232.44,26.4,36.5,26.4 - 36.5,27.1-34.4,21203
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maine,Maine,3.3,41,"Dec 29, 2021 - Jan 10, 2022",12/29/2021,01/10/2022,23.4,825,193.05,19.3,27.9,19.3 - 27.9,20.5-24.2,25647

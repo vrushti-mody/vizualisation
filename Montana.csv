@@ -1,0 +1,30 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,date,Time Period End Date,Value,Number of Respondents,value1,LowCI,HighCI,Confidence Interval,Quartile Range,value2
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,2,13,"Aug 19 - Aug 31, 2020",08/19/2020,08/31/2020,18.4,"1,189",218.776,15.5,21.5,15.5 - 21.5,12.2-18.4,3244
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,2,14,"Sep 2 - Sep 14, 2020",09/02/2020,09/14/2020,21.8,"1,275",277.95,18.8,25,18.8 - 25.0,21.3-22.8,3438
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,2,15,"Sep 16 - Sep 28, 2020",09/16/2020,09/28/2020,25.4,"1,118",283.972,21.2,30,21.2 - 30.0,23.0-25.9,3584
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,2,16,"Sep 30 - Oct 12, 2020",09/30/2020,10/12/2020,19.3,"1,163",224.459,16,23,16.0 - 23.0,19.1-20.3,5704
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,2,17,"Oct 14 - Oct 26, 2020",10/14/2020,10/26/2020,19.3,"1,009",194.737,14.9,24.3,14.9 - 24.3,19.2-21.1,11476
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Oct 28 ��� Dec 21),18,"Oct 28 - Nov 9, 2020",10/28/2020,11/09/2020,18.8,694,130.472,14.3,24,14.3 - 24.0,13.7-19.7,17090
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Oct 28 ��� Dec 21),19,"Nov 11 - Nov 23, 2020",11/11/2020,11/23/2020,21,799,167.79,16.8,25.6,16.8 - 25.6,20.2-22.1,22103
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Oct 28 ��� Dec 21),20,"Nov 25 - Dec 7, 2020",11/25/2020,12/07/2020,21.3,836,178.068,17.8,25.2,17.8 - 25.2,20.3-23.3,29219
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Oct 28 ��� Dec 21),21,"Dec 9 - Dec 21, 2020",12/09/2020,12/21/2020,28,772,216.16,23.4,33,23.4 - 33.0,25.6-34.2,28982
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Jan 6 ��� Mar 29),22,"Jan 6 - Jan 18, 2021",01/06/2021,01/18/2021,24.7,738,182.286,19.9,30,19.9 - 30.0,24.6-28.5,14714
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Jan 6 ��� Mar 29),23,"Jan 20 - Feb 1, 2021",01/20/2021,02/01/2021,20.8,847,176.176,16.4,25.7,16.4 - 25.7,20.5-23.0,12308
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Jan 6 ��� Mar 29),24,"Feb 3 - Feb 15, 2021",02/03/2021,02/15/2021,24.6,795,195.57,19.6,30.1,19.6 - 30.1,22.9-24.6,11432
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Jan 6 ��� Mar 29),25,"Feb 17 - Mar 1, 2021",02/17/2021,03/01/2021,21.2,795,168.54,17.4,25.3,17.4 - 25.3,19.8-22.6,8036
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Jan 6 ��� Mar 29),26,"Mar 3 - Mar 15, 2021",03/03/2021,03/15/2021,21.1,822,173.442,16.9,25.9,16.9 - 25.9,20.3-22.7,5967
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3 (Jan 6 ��� Mar 29),27,"Mar 17 - Mar 29, 2021",03/17/2021,03/29/2021,18.7,834,155.958,15.4,22.4,15.4 - 22.4,11.6-19.3,4818
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.1,28,"Apr 14 - Apr 26, 2021",04/14/2021,04/26/2021,23.1,705,162.855,19.2,27.5,19.2 - 27.5,21.1-23.8,4215
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.1,29,"Apr 28 - May 10, 2021",04/28/2021,05/10/2021,22.1,814,179.894,17.1,27.7,17.1 - 27.7,20.2-22.7,4096
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.1,30,"May 12 - May 24, 2021",05/12/2021,05/24/2021,16.8,720,120.96,13.7,20.3,13.7 - 20.3,13.3-19.0,3891
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.1,31,"May 26 - Jun 7, 2021",05/26/2021,06/07/2021,19.9,729,145.071,15,25.4,15.0 - 25.4,19.7-22.8,3167
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.1,32,"Jun 9 - Jun 21, 2021",06/09/2021,06/21/2021,22.4,755,169.12,17.8,27.6,17.8 - 27.6,22.2-24.9,2484
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.1,33,"Jun 23 - Jul 5, 2021",06/23/2021,07/05/2021,23.5,700,164.5,18.9,28.6,18.9 - 28.6,23.2-25.0,2026
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.2,34,"Jul 21 - Aug 2, 2021",07/21/2021,08/02/2021,23.9,661,157.979,19,29.4,19.0 - 29.4,23.9-26.7,1661
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.2,35,"Aug 4 - Aug 16, 2021",08/04/2021,08/16/2021,20.3,736,149.408,15.6,25.8,15.6 - 25.8,10.9-21.4,3377
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.2,36,"Aug 18 - Aug 30, 2021",08/18/2021,08/30/2021,23.3,695,161.935,18.5,28.8,18.5 - 28.8,20.5-23.4,6483
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.2,37,"Sep 1 - Sep 13, 2021",09/01/2021,09/13/2021,22.5,648,145.8,17.3,28.5,17.3 - 28.5,21.1-24.3,11065
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.2,38,"Sep 15 - Sep 27, 2021",09/15/2021,09/27/2021,25.5,657,167.535,20.3,31.4,20.3 - 31.4,24.4-26.1,16443
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.2,39,"Sep 29 - Oct 11, 2021",09/29/2021,10/11/2021,17.5,615,107.625,12.9,23.1,12.9 - 23.1,12.7-20.7,22597
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.3,40,"Dec 1 - Dec 13, 2021",12/01/2021,12/13/2021,22.8,691,157.548,19.6,26.4,19.6 - 26.4,20.4-23.5,13479
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Montana,Montana,3.3,41,"Dec 29, 2021 - Jan 10, 2022",12/29/2021,01/10/2022,28.6,730,208.78,23.5,34,23.5 - 34.0,26.7-30.9,6049

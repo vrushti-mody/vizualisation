@@ -1,0 +1,30 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,date,Time Period End Date,Value,Number of Respondents,value1,LowCI,HighCI,Confidence Interval,Quartile Range,value2
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,2,13,"Aug 19 - Aug 31, 2020",08/19/2020,08/31/2020,24.1,1486,358.126,20.8,27.7,20.8 - 27.7,22.6-26.8,19551
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,2,14,"Sep 2 - Sep 14, 2020",09/02/2020,09/14/2020,25.7,1452,373.164,21.9,29.8,21.9 - 29.8,22.9-30.1,16731
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,2,15,"Sep 16 - Sep 28, 2020",09/16/2020,09/28/2020,20.3,1295,262.885,17.2,23.7,17.2 - 23.7,19.2-21.3,18732
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,2,16,"Sep 30 - Oct 12, 2020",09/30/2020,10/12/2020,25,1299,324.75,21.4,29,21.4 - 29.0,22.5-32.1,22200
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,2,17,"Oct 14 - Oct 26, 2020",10/14/2020,10/26/2020,25.1,1150,288.65,21.2,29.3,21.2 - 29.3,24.2-27.2,23889
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Oct 28 ��� Dec 21),18,"Oct 28 - Nov 9, 2020",10/28/2020,11/09/2020,23.6,744,175.584,19.7,28,19.7 - 28.0,21.8-23.8,25885
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Oct 28 ��� Dec 21),19,"Nov 11 - Nov 23, 2020",11/11/2020,11/23/2020,31.4,900,282.6,26.3,36.9,26.3 - 36.9,25.1-31.4,32030
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Oct 28 ��� Dec 21),20,"Nov 25 - Dec 7, 2020",11/25/2020,12/07/2020,27.5,979,269.225,22.8,32.6,22.8 - 32.6,25.1-33.0,42598
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Oct 28 ��� Dec 21),21,"Dec 9 - Dec 21, 2020",12/09/2020,12/21/2020,26.4,845,223.08,21.8,31.4,21.8 - 31.4,25.6-34.2,52417
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Jan 6 ��� Mar 29),22,"Jan 6 - Jan 18, 2021",01/06/2021,01/18/2021,25.1,926,232.426,21.2,29.3,21.2 - 29.3,24.6-28.5,68268
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Jan 6 ��� Mar 29),23,"Jan 20 - Feb 1, 2021",01/20/2021,02/01/2021,23,1091,250.93,18.8,27.6,18.8 - 27.6,20.5-23.0,71066
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Jan 6 ��� Mar 29),24,"Feb 3 - Feb 15, 2021",02/03/2021,02/15/2021,27.4,974,266.876,22.5,32.8,22.5 - 32.8,24.7-31.8,61542
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Jan 6 ��� Mar 29),25,"Feb 17 - Mar 1, 2021",02/17/2021,03/01/2021,26.9,978,263.082,22.5,31.6,22.5 - 31.6,24.8-27.9,40598
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Jan 6 ��� Mar 29),26,"Mar 3 - Mar 15, 2021",03/03/2021,03/15/2021,29.8,911,271.478,24.7,35.4,24.7 - 35.4,23.9-29.8,25349
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3 (Jan 6 ��� Mar 29),27,"Mar 17 - Mar 29, 2021",03/17/2021,03/29/2021,28.7,907,260.309,20.8,37.8,20.8 - 37.8,24.2-28.7,14256
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.1,28,"Apr 14 - Apr 26, 2021",04/14/2021,04/26/2021,21.7,838,181.846,17.1,26.9,17.1 - 26.9,21.1-23.8,5210
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.1,29,"Apr 28 - May 10, 2021",04/28/2021,05/10/2021,27.4,957,262.218,21.7,33.7,21.7 - 33.7,24.7-29.7,5103
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.1,30,"May 12 - May 24, 2021",05/12/2021,05/24/2021,26.6,854,227.164,22.8,30.6,22.8 - 30.6,24.8-29.2,5597
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.1,31,"May 26 - Jun 7, 2021",05/26/2021,06/07/2021,23.9,860,205.54,20.7,27.3,20.7 - 27.3,22.9-25.1,5700
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.1,32,"Jun 9 - Jun 21, 2021",06/09/2021,06/21/2021,25.7,862,221.534,19,33.4,19.0 - 33.4,25.0-29.2,5108
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.1,33,"Jun 23 - Jul 5, 2021",06/23/2021,07/05/2021,23.1,708,163.548,18.7,27.9,18.7 - 27.9,20.3-23.1,6054
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.2,34,"Jul 21 - Aug 2, 2021",07/21/2021,08/02/2021,30.6,843,257.958,25.5,36.1,25.5 - 36.1,26.8-30.6,22286
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.2,35,"Aug 4 - Aug 16, 2021",08/04/2021,08/16/2021,24.3,873,212.139,20.3,28.7,20.3 - 28.7,23.9-25.8,42366
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.2,36,"Aug 18 - Aug 30, 2021",08/18/2021,08/30/2021,27,917,247.59,22.7,31.6,22.7 - 31.6,26.6-31.4,58544
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.2,37,"Sep 1 - Sep 13, 2021",09/01/2021,09/13/2021,28.3,797,225.551,23.8,33.1,23.8 - 33.1,26.2-29.3,64158
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.2,38,"Sep 15 - Sep 27, 2021",09/15/2021,09/27/2021,28.5,725,206.625,23.4,34.1,23.4 - 34.1,26.2-30.8,56244
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.2,39,"Sep 29 - Oct 11, 2021",09/29/2021,10/11/2021,33.6,640,215.04,27.7,39.9,27.7 - 39.9,26.4-33.6,42182
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.3,40,"Dec 1 - Dec 13, 2021",12/01/2021,12/13/2021,27.8,764,212.392,23.3,32.7,23.3 - 32.7,27.1-34.4,15775
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arkansas,Arkansas,3.3,41,"Dec 29, 2021 - Jan 10, 2022",12/29/2021,01/10/2022,29.6,875,259,24.3,35.3,24.3 - 35.3,26.7-30.9,28713

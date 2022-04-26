@@ -1,0 +1,30 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,date,Time Period End Date,Value,Number of Respondents,value1,LowCI,HighCI,Confidence Interval,Quartile Range,value2
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,2,13,"Aug 19 - Aug 31, 2020",08/19/2020,08/31/2020,19.8,1291,255.618,16.4,23.6,16.4 - 23.6,18.5-20.5,2416
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,2,14,"Sep 2 - Sep 14, 2020",09/02/2020,09/14/2020,22.8,1319,300.732,19.3,26.6,19.3 - 26.6,21.3-22.8,2233
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,2,15,"Sep 16 - Sep 28, 2020",09/16/2020,09/28/2020,18.8,1160,218.08,15.5,22.6,15.5 - 22.6,10.1-19.1,2672
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,2,16,"Sep 30 - Oct 12, 2020",09/30/2020,10/12/2020,22.7,1184,268.768,18.4,27.6,18.4 - 27.6,22.5-32.1,2959
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,2,17,"Oct 14 - Oct 26, 2020",10/14/2020,10/26/2020,20.1,1079,216.879,16.2,24.4,16.2 - 24.4,19.2-21.1,3461
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Oct 28 ��� Dec 21),18,"Oct 28 - Nov 9, 2020",10/28/2020,11/09/2020,22.7,687,155.949,17.5,28.5,17.5 - 28.5,21.8-23.8,3925
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Oct 28 ��� Dec 21),19,"Nov 11 - Nov 23, 2020",11/11/2020,11/23/2020,21.8,883,192.494,18.2,25.9,18.2 - 25.9,20.2-22.1,4922
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Oct 28 ��� Dec 21),20,"Nov 25 - Dec 7, 2020",11/25/2020,12/07/2020,22.3,842,187.766,16.9,28.4,16.9 - 28.4,20.3-23.3,8683
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Oct 28 ��� Dec 21),21,"Dec 9 - Dec 21, 2020",12/09/2020,12/21/2020,21.2,876,185.712,17,26,17.0 - 26.0,20.2-23.1,15288
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Jan 6 ��� Mar 29),22,"Jan 6 - Jan 18, 2021",01/06/2021,01/18/2021,19.3,858,165.594,15,24.1,15.0 - 24.1,15.1-20.0,20871
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Jan 6 ��� Mar 29),23,"Jan 20 - Feb 1, 2021",01/20/2021,02/01/2021,23.6,"1,037",244.732,18.8,29,18.8 - 29.0,23.1-24.9,20767
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Jan 6 ��� Mar 29),24,"Feb 3 - Feb 15, 2021",02/03/2021,02/15/2021,20.3,991,201.173,15.8,25.4,15.8 - 25.4,19.5-22.8,18220
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Jan 6 ��� Mar 29),25,"Feb 17 - Mar 1, 2021",02/17/2021,03/01/2021,25.6,"1,061",271.616,20.3,31.5,20.3 - 31.5,24.8-27.9,12518
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Jan 6 ��� Mar 29),26,"Mar 3 - Mar 15, 2021",03/03/2021,03/15/2021,16.7,997,166.499,13.3,20.6,13.3 - 20.6,11.3-20.2,8982
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3 (Jan 6 ��� Mar 29),27,"Mar 17 - Mar 29, 2021",03/17/2021,03/29/2021,17,988,167.96,13.7,20.6,13.7 - 20.6,11.6-19.3,6874
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.1,28,"Apr 14 - Apr 26, 2021",04/14/2021,04/26/2021,20.1,732,147.132,14,27.5,14.0 - 27.5,20.0-21.0,8279
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.1,29,"Apr 28 - May 10, 2021",04/28/2021,05/10/2021,24.7,810,200.07,19.6,30.4,19.6 - 30.4,24.7-29.7,9105
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.1,30,"May 12 - May 24, 2021",05/12/2021,05/24/2021,20.7,892,184.644,15.7,26.5,15.7 - 26.5,19.1-22.5,7198
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.1,31,"May 26 - Jun 7, 2021",05/26/2021,06/07/2021,16.7,810,135.27,12.4,21.7,12.4 - 21.7,12.2-19.6,4186
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.1,32,"Jun 9 - Jun 21, 2021",06/09/2021,06/21/2021,21.8,698,152.164,16.1,28.3,16.1 - 28.3,20.6-22.1,2202
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.1,33,"Jun 23 - Jul 5, 2021",06/23/2021,07/05/2021,22.5,729,164.025,17.9,27.7,17.9 - 27.7,20.3-23.1,1117
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.2,34,"Jul 21 - Aug 2, 2021",07/21/2021,08/02/2021,21.1,919,193.909,16.9,25.8,16.9 - 25.8,13.1-21.1,910
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.2,35,"Aug 4 - Aug 16, 2021",08/04/2021,08/16/2021,26.1,996,259.956,21,31.7,21.0 - 31.7,25.9-30.8,1900
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.2,36,"Aug 18 - Aug 30, 2021",08/18/2021,08/30/2021,18.8,911,171.268,15.2,22.7,15.2 - 22.7,13.7-20.4,4706
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.2,37,"Sep 1 - Sep 13, 2021",09/01/2021,09/13/2021,22.2,908,201.576,18,26.9,18.0 - 26.9,21.1-24.3,8348
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.2,38,"Sep 15 - Sep 27, 2021",09/15/2021,09/27/2021,19.8,844,167.112,15.9,24.2,15.9 - 24.2,14.4-21.3,11087
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.2,39,"Sep 29 - Oct 11, 2021",09/29/2021,10/11/2021,21.8,775,168.95,17.2,27,17.2 - 27.0,20.8-24.1,12498
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.3,40,"Dec 1 - Dec 13, 2021",12/01/2021,12/13/2021,20.2,553,111.706,15.8,25.1,15.8 - 25.1,12.4-20.3,9297
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Delaware,Delaware,3.3,41,"Dec 29, 2021 - Jan 10, 2022",12/29/2021,01/10/2022,28.6,880,251.68,23.9,33.7,23.9 - 33.7,26.7-30.9,21738

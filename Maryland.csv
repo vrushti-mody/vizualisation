@@ -1,0 +1,30 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,date,Time Period End Date,Value,Number of Respondents,value1,LowCI,HighCI,Confidence Interval,Quartile Range,value2
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,2,13,"Aug 19 - Aug 31, 2020",08/19/2020,08/31/2020,17.1,"2,540",434.34,15.1,19.3,15.1 - 19.3,12.2-18.4,22104
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,2,14,"Sep 2 - Sep 14, 2020",09/02/2020,09/14/2020,16.9,"2,619",442.611,14.7,19.3,14.7 - 19.3,11.2-18.8,17465
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,2,15,"Sep 16 - Sep 28, 2020",09/16/2020,09/28/2020,18.8,"2,282",429.016,16.3,21.6,16.3 - 21.6,10.1-19.1,16653
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,2,16,"Sep 30 - Oct 12, 2020",09/30/2020,10/12/2020,20.6,"2,242",461.852,18.1,23.1,18.1 - 23.1,20.4-22.4,15862
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,2,17,"Oct 14 - Oct 26, 2020",10/14/2020,10/26/2020,18.9,"2,091",395.199,16.2,21.9,16.2 - 21.9,10.0-19.1,15673
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Oct 28 ��� Dec 21),18,"Oct 28 - Nov 9, 2020",10/28/2020,11/09/2020,20,"1,389",277.8,16.9,23.3,16.9 - 23.3,19.8-21.7,18114
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Oct 28 ��� Dec 21),19,"Nov 11 - Nov 23, 2020",11/11/2020,11/23/2020,18.8,"1,751",329.188,15.7,22.2,15.7 - 22.2,13.2-20.1,26080
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Oct 28 ��� Dec 21),20,"Nov 25 - Dec 7, 2020",11/25/2020,12/07/2020,20,"1,772",354.4,16.6,23.6,16.6 - 23.6,13.2-20.2,46420
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Oct 28 ��� Dec 21),21,"Dec 9 - Dec 21, 2020",12/09/2020,12/21/2020,19.7,"1,664",327.808,16.6,23.1,16.6 - 23.1,12.5-20.1,65944
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Jan 6 ��� Mar 29),22,"Jan 6 - Jan 18, 2021",01/06/2021,01/18/2021,21.1,"1,553",327.683,18.3,24,18.3 - 24.0,20.1-21.9,72943
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Jan 6 ��� Mar 29),23,"Jan 20 - Feb 1, 2021",01/20/2021,02/01/2021,20.7,"2,076",429.732,17.6,24,17.6 - 24.0,20.5-23.0,76956
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Jan 6 ��� Mar 29),24,"Feb 3 - Feb 15, 2021",02/03/2021,02/15/2021,23.2,"1,813",420.616,19.9,26.8,19.9 - 26.8,22.9-24.6,67725
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Jan 6 ��� Mar 29),25,"Feb 17 - Mar 1, 2021",02/17/2021,03/01/2021,19.1,"1,866",356.406,16.4,22.1,16.4 - 22.1,12.2-19.7,42794
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Jan 6 ��� Mar 29),26,"Mar 3 - Mar 15, 2021",03/03/2021,03/15/2021,20.2,"1,841",371.882,16.6,24.1,16.6 - 24.1,11.3-20.2,27415
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3 (Jan 6 ��� Mar 29),27,"Mar 17 - Mar 29, 2021",03/17/2021,03/29/2021,20.3,"1,903",386.309,17.3,23.7,17.3 - 23.7,19.4-22.2,23412
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.1,28,"Apr 14 - Apr 26, 2021",04/14/2021,04/26/2021,20.1,"1,781",357.981,17,23.6,17.0 - 23.6,20.0-21.0,35635
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.1,29,"Apr 28 - May 10, 2021",04/28/2021,05/10/2021,22.7,"1,903",431.981,19.7,26,19.7 - 26.0,20.2-22.7,35515
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.1,30,"May 12 - May 24, 2021",05/12/2021,05/24/2021,21.1,"1,751",369.461,18.2,24.2,18.2 - 24.2,19.1-22.5,25472
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.1,31,"May 26 - Jun 7, 2021",05/26/2021,06/07/2021,19.1,"1,849",353.159,16.5,22,16.5 - 22.0,12.2-19.6,14387
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.1,32,"Jun 9 - Jun 21, 2021",06/09/2021,06/21/2021,21.8,"1,661",362.098,18.7,25.3,18.7 - 25.3,20.6-22.1,7063
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.1,33,"Jun 23 - Jul 5, 2021",06/23/2021,07/05/2021,21.9,"1,682",368.358,19,25,19.0 - 25.0,20.3-23.1,3207
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.2,34,"Jul 21 - Aug 2, 2021",07/21/2021,08/02/2021,19.7,"1,554",306.138,17,22.7,17.0 - 22.7,13.1-21.1,2907
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.2,35,"Aug 4 - Aug 16, 2021",08/04/2021,08/16/2021,21,"1,579",331.59,18.3,23.8,18.3 - 23.8,10.9-21.4,7924
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.2,36,"Aug 18 - Aug 30, 2021",08/18/2021,08/30/2021,18.6,"1,605",298.53,15.7,21.7,15.7 - 21.7,13.7-20.4,18090
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.2,37,"Sep 1 - Sep 13, 2021",09/01/2021,09/13/2021,20.1,"1,425",286.425,17.1,23.5,17.1 - 23.5,11.8-21.0,28466
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.2,38,"Sep 15 - Sep 27, 2021",09/15/2021,09/27/2021,21.3,"1,461",311.193,18,24.9,18.0 - 24.9,14.4-21.3,32360
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.2,39,"Sep 29 - Oct 11, 2021",09/29/2021,10/11/2021,21.3,"1,386",295.218,18,24.9,18.0 - 24.9,20.8-24.1,33859
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.3,40,"Dec 1 - Dec 13, 2021",12/01/2021,12/13/2021,22.1,1393,307.853,19.5,25,19.5 - 25.0,20.4-23.5,25085
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Maryland,Maryland,3.3,41,"Dec 29, 2021 - Jan 10, 2022",12/29/2021,01/10/2022,20.1,1886,379.086,17.9,22.5,17.9 - 22.5,14.3-20.4,106183

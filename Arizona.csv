@@ -1,0 +1,29 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,date,Time Period End Date,Value,Number of Respondents,value1,LowCI,HighCI,Confidence Interval,Quartile Range,value2
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,2,13,"Aug 19 - Aug 31, 2020",08/19/2020,08/31/2020,18.3,2758,504.714,16.1,20.7,16.1 - 20.7,12.2-18.4,46903
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,2,14,"Sep 2 - Sep 14, 2020",09/02/2020,09/14/2020,19.6,2787,546.252,17,22.4,17.0 - 22.4,18.9-21.2,22385
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,2,15,"Sep 16 - Sep 28, 2020",09/16/2020,09/28/2020,19,2613,496.47,16.6,21.5,16.6 - 21.5,10.1-19.1,15016
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,2,16,"Sep 30 - Oct 12, 2020",09/30/2020,10/12/2020,19.2,2446,469.632,16.3,22.3,16.3 - 22.3,19.1-20.3,16194
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,2,17,"Oct 14 - Oct 26, 2020",10/14/2020,10/26/2020,19.9,2175,432.825,17.5,22.4,17.5 - 22.4,19.2-21.1,18455
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Oct 28 ��� Dec 21),18,"Oct 28 - Nov 9, 2020",10/28/2020,11/09/2020,19.6,1567,307.132,16,23.6,16.0 - 23.6,13.7-19.7,23010
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Oct 28 ��� Dec 21),19,"Nov 11 - Nov 23, 2020",11/11/2020,11/23/2020,18.3,1858,340.014,15.4,21.4,15.4 - 21.4,13.2-20.1,38505
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Oct 28 ��� Dec 21),20,"Nov 25 - Dec 7, 2020",11/25/2020,12/07/2020,19.5,1942,378.69,16.6,22.7,16.6 - 22.7,13.2-20.2,70832
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Oct 28 ��� Dec 21),21,"Dec 9 - Dec 21, 2020",12/09/2020,12/21/2020,20.1,1963,394.563,17.1,23.5,17.1 - 23.5,12.5-20.1,119555
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Jan 6 ��� Mar 29),22,"Jan 6 - Jan 18, 2021",01/06/2021,01/18/2021,19.3,1905,367.665,16.5,22.4,16.5 - 22.4,15.1-20.0,196610
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Jan 6 ��� Mar 29),23,"Jan 20 - Feb 1, 2021",01/20/2021,02/01/2021,23.7,2239,530.643,21.2,26.4,21.2 - 26.4,23.1-24.9,223416
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Jan 6 ��� Mar 29),24,"Feb 3 - Feb 15, 2021",02/03/2021,02/15/2021,18.6,1947,362.142,15.6,21.9,15.6 - 21.9,12.1-19.4,199992
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Jan 6 ��� Mar 29),25,"Feb 17 - Mar 1, 2021",02/17/2021,03/01/2021,19.2,1972,378.624,16.7,21.9,16.7 - 21.9,12.2-19.7,115443
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Jan 6 ��� Mar 29),26,"Mar 3 - Mar 15, 2021",03/03/2021,03/15/2021,21.7,2032,440.944,17.6,26.3,17.6 - 26.3,20.3-22.7,55045
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3 (Jan 6 ��� Mar 29),27,"Mar 17 - Mar 29, 2021",03/17/2021,03/29/2021,19.3,2056,396.808,16.6,22.1,16.6 - 22.1,11.6-19.3,34715
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.1,28,"Apr 14 - Apr 26, 2021",04/14/2021,04/26/2021,22.6,1798,406.348,18.8,26.9,18.8 - 26.9,21.1-23.8,16762
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.1,29,"Apr 28 - May 10, 2021",04/28/2021,05/10/2021,19,2029,385.51,16.7,21.5,16.7 - 21.5,15.4-20.1,19069
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.1,30,"May 12 - May 24, 2021",05/12/2021,05/24/2021,19.8,1793,355.014,17.4,22.5,17.4 - 22.5,19.1-22.5,19778
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.1,31,"May 26 - Jun 7, 2021",05/26/2021,06/07/2021,19.6,1872,366.912,15.6,24.1,15.6 - 24.1,12.2-19.6,18169
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.1,32,"Jun 9 - Jun 21, 2021",06/09/2021,06/21/2021,19.3,1745,336.785,15.8,23.2,15.8 - 23.2,14.4-20.5,14887
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.1,33,"Jun 23 - Jul 5, 2021",06/23/2021,07/05/2021,20.6,1646,339.076,17.5,24,17.5 - 24.0,20.3-23.1,13341
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.2,34,"Jul 21 - Aug 2, 2021",07/21/2021,08/02/2021,21.2,1623,344.076,17.9,24.9,17.9 - 24.9,21.2-23.8,20946
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.2,35,"Aug 4 - Aug 16, 2021",08/04/2021,08/16/2021,19.7,1762,347.114,17,22.6,17.0 - 22.6,10.9-21.4,37737
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.2,36,"Aug 18 - Aug 30, 2021",08/18/2021,08/30/2021,18.5,1744,322.64,15.7,21.6,15.7 - 21.6,13.7-20.4,62489
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.2,37,"Sep 1 - Sep 13, 2021",09/01/2021,09/13/2021,19,1601,304.19,16.4,21.9,16.4 - 21.9,11.8-21.0,83302
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.2,38,"Sep 15 - Sep 27, 2021",09/15/2021,09/27/2021,21,1499,314.79,17.7,24.6,17.7 - 24.6,14.4-21.3,85396
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.2,39,"Sep 29 - Oct 11, 2021",09/29/2021,10/11/2021,23.1,1421,328.251,19.6,26.9,19.6 - 26.9,20.8-24.1,78916
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Arizona,Arizona,3.3,40,"Dec 1 - Dec 13, 2021",12/01/2021,12/13/2021,21,1627,341.67,18,24.3,18.0 - 24.3,20.4-23.5,99603

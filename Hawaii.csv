@@ -1,0 +1,30 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,date,Time Period End Date,Value,Number of Respondents,value1,LowCI,HighCI,Confidence Interval,Quartile Range,value2
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,2,13,"Aug 19 - Aug 31, 2020",08/19/2020,08/31/2020,12.2,1425,173.85,9.8,15,9.8 - 15.0,12.2-18.4,4409
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,2,14,"Sep 2 - Sep 14, 2020",09/02/2020,09/14/2020,11.2,1435,160.72,7.6,15.6,7.6 - 15.6,11.2-18.8,6431
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,2,15,"Sep 16 - Sep 28, 2020",09/16/2020,09/28/2020,10.1,1269,128.169,7.5,13.1,7.5 - 13.1,10.1-19.1,5477
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,2,16,"Sep 30 - Oct 12, 2020",09/30/2020,10/12/2020,13,1109,144.17,10,16.4,10.0 - 16.4,13.0-19.0,3519
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,2,17,"Oct 14 - Oct 26, 2020",10/14/2020,10/26/2020,10,1056,105.6,7.9,12.6,7.9 - 12.6,10.0-19.1,2732
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Oct 28 ��� Dec 21),18,"Oct 28 - Nov 9, 2020",10/28/2020,11/09/2020,14.2,629,89.318,10.2,18.9,10.2 - 18.9,13.7-19.7,2461
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Oct 28 ��� Dec 21),19,"Nov 11 - Nov 23, 2020",11/11/2020,11/23/2020,13.2,677,89.364,9.6,17.6,9.6 - 17.6,13.2-20.1,2539
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Oct 28 ��� Dec 21),20,"Nov 25 - Dec 7, 2020",11/25/2020,12/07/2020,13.2,697,92.004,9.3,17.9,9.3 - 17.9,13.2-20.2,2583
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Oct 28 ��� Dec 21),21,"Dec 9 - Dec 21, 2020",12/09/2020,12/21/2020,12.5,694,86.75,8.7,17.2,8.7 - 17.2,12.5-20.1,2509
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Jan 6 ��� Mar 29),22,"Jan 6 - Jan 18, 2021",01/06/2021,01/18/2021,15.7,761,119.477,11.2,21.2,11.2 - 21.2,15.1-20.0,3449
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Jan 6 ��� Mar 29),23,"Jan 20 - Feb 1, 2021",01/20/2021,02/01/2021,11.2,869,97.328,8.5,14.5,8.5 - 14.5,11.2-20.4,3878
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Jan 6 ��� Mar 29),24,"Feb 3 - Feb 15, 2021",02/03/2021,02/15/2021,12.1,880,106.48,8.4,16.7,8.4 - 16.7,12.1-19.4,3695
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Jan 6 ��� Mar 29),25,"Feb 17 - Mar 1, 2021",02/17/2021,03/01/2021,12.2,850,103.7,9,16.1,9.0 - 16.1,12.2-19.7,2363
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Jan 6 ��� Mar 29),26,"Mar 3 - Mar 15, 2021",03/03/2021,03/15/2021,11.3,876,98.988,7.6,16,7.6 - 16.0,11.3-20.2,1617
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3 (Jan 6 ��� Mar 29),27,"Mar 17 - Mar 29, 2021",03/17/2021,03/29/2021,11.6,830,96.28,8.8,14.9,8.8 - 14.9,11.6-19.3,1604
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.1,28,"Apr 14 - Apr 26, 2021",04/14/2021,04/26/2021,14.7,676,99.372,11.5,18.3,11.5 - 18.3,14.7-19.9,2885
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.1,29,"Apr 28 - May 10, 2021",04/28/2021,05/10/2021,15.4,748,115.192,11.4,20.2,11.4 - 20.2,15.4-20.1,2776
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.1,30,"May 12 - May 24, 2021",05/12/2021,05/24/2021,13.3,812,107.996,9.2,18.4,9.2 - 18.4,13.3-19.0,2587
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.1,31,"May 26 - Jun 7, 2021",05/26/2021,06/07/2021,12.2,794,96.868,8.4,16.8,8.4 - 16.8,12.2-19.6,2357
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.1,32,"Jun 9 - Jun 21, 2021",06/09/2021,06/21/2021,14.4,648,93.312,11.4,17.8,11.4 - 17.8,14.4-20.5,1738
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.1,33,"Jun 23 - Jul 5, 2021",06/23/2021,07/05/2021,15.9,562,89.358,9.8,23.8,9.8 - 23.8,15.9-20.2,1396
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.2,34,"Jul 21 - Aug 2, 2021",07/21/2021,08/02/2021,13.1,771,101.001,8.1,19.7,8.1 - 19.7,13.1-21.1,2000
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.2,35,"Aug 4 - Aug 16, 2021",08/04/2021,08/16/2021,10.9,824,89.816,7.7,14.8,7.7 - 14.8,10.9-21.4,5455
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.2,36,"Aug 18 - Aug 30, 2021",08/18/2021,08/30/2021,13.7,791,108.367,10.3,17.6,10.3 - 17.6,13.7-20.4,12885
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.2,37,"Sep 1 - Sep 13, 2021",09/01/2021,09/13/2021,11.8,789,93.102,9,15.1,9.0 - 15.1,11.8-21.0,19985
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.2,38,"Sep 15 - Sep 27, 2021",09/15/2021,09/27/2021,14.4,783,112.752,8.5,22.2,8.5 - 22.2,14.4-21.3,20811
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.2,39,"Sep 29 - Oct 11, 2021",09/29/2021,10/11/2021,12.7,718,91.186,9,17.3,9.0 - 17.3,12.7-20.7,15104
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.3,40,"Dec 1 - Dec 13, 2021",12/01/2021,12/13/2021,12.4,596,73.904,8.4,17.3,8.4 - 17.3,12.4-20.3,3159
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Hawaii,Hawaii,3.3,41,"Dec 29, 2021 - Jan 10, 2022",12/29/2021,01/10/2022,14.3,850,121.55,11,18.2,11.0 - 18.2,14.3-20.4,18165

@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script type = "text/JavaScript" src = " https://MomentJS.com/downloads/moment.js"></script>
+<style type="text/css">
+
+/* On mouse hover, lighten state color */
+path:hover {
+	fill-opacity: .7;
+}
+
+/* Style for Custom Tooltip */
+div.tooltip {   
+ 	position: absolute;           
+	text-align: center;           
+	width: 60px;                  
+	height: 28px;                 
+	padding: 2px;             
+	font: 12px sans-serif;        
+	background: white;   
+	border: 0px;      
+	border-radius: 8px;           
+	pointer-events: none;         
+}
+        
+/* Legend Font Style */
+body {
+	font: 11px sans-serif;
+}
+        
+/* Legend Position Style */
+.legend {
+	position:absolute;
+	left:800px;
+	top:350px;
+}
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body {
+ font-family: 'Times New Roman';
+}
+a {
+ text-decoration: none;
+}
+li {
+ list-style: none;
+}
+
+/* NAVBAR STYLING STARTS */
+.navbar {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 20px;
+ background-color: teal;
+ color: #fff;
+}
+.nav-links a {
+ color: #fff;
+}
+/* LOGO */
+.logo {
+ font-size: 32px;
+}
+/* NAVBAR MENU */
+.menu {
+ display: flex;
+ gap: 1em;
+ font-size: 18px;
+}
+.menu li:hover {
+ background-color: #4c9e9e;
+ border-radius: 5px;
+ transition: 0.3s ease;
+}
+.menu li {
+ padding: 5px 14px;
+}
+/* DROPDOWN MENU */
+.services {
+ position: relative; 
+}
+.dropdown {
+ background-color: rgb(1, 139, 139);
+ padding: 1em 0;
+ position: absolute; /*WITH RESPECT TO PARENT*/
+ display: none;
+ border-radius: 8px;
+ top: 35px;
+}
+.dropdown li + li {
+ margin-top: 10px;
+}
+.dropdown li {
+ padding: 0.5em 1em;
+ width: 8em;
+ text-align: center;
+}
+.dropdown li:hover {
+ background-color: #4c9e9e;
+}
+.services:hover .dropdown {
+ display: block;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #4c9e9e;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+</style>
+</head>
+
+<body>
+
+	<nav class="navbar">
+		<!-- LOGO -->
+		<div class="logo">COMPSCI 571</div>
+		<!-- NAVIGATION MENU -->
+		<ul class="nav-links">
+		<!-- NAVIGATION MENUS -->
+		<div class="menu">
+			<li><a href="/">Covid Cases</a></li>
+			<li><a href="/comparison.html">Comparison</a></li>
+			</div>
+		</ul>
+	</nav>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script type="text/javascript">
+
+/*  This visualization was made possible by modifying code provided by:
+
+Scott Murray, Choropleth example from "Interactive Data Visualization for the Web" 
+https://github.com/alignedleft/d3-book/blob/master/chapter_12/05_choropleth.html   
+		
+Malcolm Maclean, tooltips example tutorial
+http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html
+
+Mike Bostock, Pie Chart Legend
+http://bl.ocks.org/mbostock/3888852  */
+
+var states = [
+      ['Arizona', 'AZ'],
+      ['Alabama', 'AL'],
+      ['Alaska', 'AK'],
+      ['Arkansas', 'AR'],
+      ['California', 'CA'],
+      ['Colorado', 'CO'],
+      ['Connecticut', 'CT'],
+      ['Delaware', 'DE'],
+      ['Florida', 'FL'],
+      ['Georgia', 'GA'],
+      ['Hawaii', 'HI'],
+      ['Idaho', 'ID'],
+      ['Illinois', 'IL'],
+      ['Indiana', 'IN'],
+      ['Iowa', 'IA'],
+      ['Kansas', 'KS'],
+      ['Kentucky', 'KY'],
+      ['Louisiana', 'LA'],
+      ['Maine', 'ME'],
+      ['Maryland', 'MD'],
+      ['Massachusetts', 'MA'],
+      ['Michigan', 'MI'],
+      ['Minnesota', 'MN'],
+      ['Mississippi', 'MS'],
+      ['Missouri', 'MO'],
+      ['Montana', 'MT'],
+      ['Nebraska', 'NE'],
+      ['Nevada', 'NV'],
+      ['New Hampshire', 'NH'],
+      ['New Jersey', 'NJ'],
+      ['New Mexico', 'NM'],
+      ['New York', 'NY'],
+      ['North Carolina', 'NC'],
+      ['North Dakota', 'ND'],
+      ['Ohio', 'OH'],
+      ['Oklahoma', 'OK'],
+      ['Oregon', 'OR'],
+      ['Pennsylvania', 'PA'],
+      ['Rhode Island', 'RI'],
+      ['South Carolina', 'SC'],
+      ['South Dakota', 'SD'],
+      ['Tennessee', 'TN'],
+      ['Texas', 'TX'],
+      ['Utah', 'UT'],
+      ['Vermont', 'VT'],
+      ['Virginia', 'VA'],
+      ['Washington', 'WA'],
+      ['West Virginia', 'WV'],
+      ['Wisconsin', 'WI'],
+      ['Wyoming', 'WY'],
+];
+
+//Found online -> abbreviations to full name and vice versa
+function abbrState(input, to){
+    if (to == 'abbr'){
+        input = input.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+        for(i = 0; i < states.length; i++){
+            if(states[i][0] == input){
+                return(states[i][1]);
+            }
+        }    
+    } else if (to == 'name'){
+        input = input.toUpperCase();
+        for(i = 0; i < states.length; i++){
+            if(states[i][1] == input){
+                return(states[i][0]);
+            }
+        }    
+    }
+}
+//Width and height of map
+var width = 960;
+var height = 460;
+
+// D3 Projection
+var projection = d3.geo.albersUsa()
+				   .translate([width/2, height/2])    // translate to center of screen
+				   .scale([1000]);          // scale things down so see entire US
+        
+// Define path generator
+var path = d3.geo.path()               // path generator that will convert GeoJSON to SVG paths
+		  	 .projection(projection);  // tell path generator to use albersUsa projection
+
+		
+// Define linear scale for output
+var color = d3.scale.linear()
+			  .range(["blue", "green"]);
+
+var legendText = ["Covid Cases", "Mental Health Cases"];
+
+//Create SVG element and append map to the SVG
+var svg = d3.select("body")
+			.append("svg")
+			.attr("width", width)
+			.attr("height", height);
+   
+// Append Div for tooltip to SVG
+var div = d3.select("body")
+		    .append("div")   
+    		.attr("class", "tooltip")               
+    		.style("opacity", 0);
+
+// Load in my states data!
+d3.csv("stateslived.csv", function(data) {
+color.domain([0,1]); // setting the range of the input data
+
+// Load GeoJSON data and merge with states data
+d3.json("us-states.json", function(json) {
+	console.log('Hi', json)
+	
+
+// Loop through each state data value in the .csv file
+for (var i = 0; i < data.length; i++) {
+
+	// Grab State Name
+	var dataState = data[i].state;
+
+	// Grab data value 
+	var dataValue = data[i].visited;
+
+	// Find the corresponding state inside the GeoJSON
+	for (var j = 0; j < json.features.length; j++)  {
+		var jsonState = json.features[j].properties.name;
+
+		if (dataState == jsonState) {
+
+		// Copy the data value into the JSON
+		json.features[j].properties.visited = dataValue; 
+
+		// Stop looking through the JSON
+		break;
+		}
+	}
+}
+		
+// Bind the data to the SVG and create one path per GeoJSON feature
+svg.selectAll("path")
+	.data(json.features)
+	.enter()
+	.append("path")
+	.attr("d", path)
+	.style("stroke", "#fff")
+	.style("stroke-width", "1")
+	.on('mouseout', tool_tip.hide) // On mouseout, hide the tooltip
+  .on('mouseover', function(d) {
+	  console.log(d)
+    // Define and store the mouse position;
+    // This is used to define tooltip offset, seen above
+    current_position = d3.mouse(this);
+
+    // Record current state
+    current_state = d.properties.name
+	console.log(current_state)
+    // Show the tooltip
+    tool_tip.show();
+	var tipSVG = d3.select("#tipDiv")
+     .append("svg")
+     .attr("width", 220)
+     .attr("height", 55);
+
+	 // Set the dimensions of the canvas / graph
+var margin = {top: 30, right: 20, bottom: 30, left: 50},
+    width1 = 600 - margin.left - margin.right,
+    height1 = 270 - margin.top - margin.bottom;
+
+// Parse the date / time
+var parseDate = d3.time.format("%d-%b-%y").parse;
+
+// Set the ranges
+var x = d3.time.scale().range([0, width1]);
+var y = d3.scale.linear().range([height1, 0]);
+
+// Define the axes
+var xAxis = d3.svg.axis().scale(x)
+    .orient("bottom").ticks(5);
+
+var yAxis = d3.svg.axis().scale(y)
+    .orient("left").ticks(5);
+
+// Define the line
+var valueline = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.value); });
+    
+// Adds the svg canvas
+// var svg2 = d3.select("#tipDiv2")
+//     .append("svg")
+//         .attr("width", width1 + margin.left + margin.right)
+//         .attr("height", height1 + margin.top + margin.bottom)
+//     .append("g")
+//         .attr("transform", 
+//               "translate(" + margin.left + "," + margin.top + ")");
+
+// Get the data
+// data = [
+// {date:"1-May-12",close:58.13},
+// {date:"30-Apr-12",close:53.98},
+// {date:"27-Apr-12",close:67.00},
+// {date:"26-Apr-12",close:89.70},
+// {date:"25-Apr-12",close:99.00},
+// {date:"24-Apr-12",close:130.28},
+// {date:"23-Apr-12",close:166.70},
+// {date:"20-Apr-12",close:234.98},
+// {date:"19-Apr-12",close:345.44},
+// {date:"18-Apr-12",close:443.34},
+// {date:"17-Apr-12",close:543.70},
+// {date:"16-Apr-12",close:580.13},
+// {date:"13-Apr-12",close:605.23},
+// {date:"12-Apr-12",close:622.77},
+// {date:"11-Apr-12",close:626.20},
+// {date:"10-Apr-12",close:628.44},
+// {date:"9-Apr-12",close:636.23},
+// {date:"5-Apr-12",close:633.68},
+// {date:"4-Apr-12",close:624.31},
+// {date:"3-Apr-12",close:629.32},
+// {date:"2-Apr-12",close:618.63},
+// {date:"30-Mar-12",close:599.55},
+// {date:"29-Mar-12",close:609.86},
+// {date:"28-Mar-12",close:617.62},
+// {date:"27-Mar-12",close:614.48},
+// {date:"26-Mar-12",close:606.98}
+// ];
+
+const myNode = document.getElementById("graph");
+myNode.innerHTML = '';	
+var svg2 = d3.select("#graph")
+			.append("svg")
+			.attr("width", width)
+			.attr("height", height); 
+d3.csv(`${current_state}.csv`, function(error, data) {
+console.log(data)
+   data.forEach(function(d) {
+        d.date = parseDate(moment(d.date).format('DD-MMM-YY'));
+        d.value1 = +d.value1;
+		d.value2 = +d.value2
+    });
+	
+	let y_attr = []
+
+	data.forEach(function(d) {
+
+        y_attr.push((Math.log(Math.pow(d.value2+0.001, 2)))) 
+    });
+
+
+	svg2.append("text")
+        .attr("x", width/2)             
+        .attr("y", height1+100)
+        .attr("text-anchor", "middle")  
+        .style("font-size", "16px") 
+        .style("text-decoration", "underline")  
+        .text(`Covid Cases Vs Mental Health Cases in ${current_state}`);
+
+
+    var x = d3.scaleTime()
+      .domain(d3.extent(data, function(d) { return d.date; }))
+      .range([ 80, width+80 ]);
+    var x_axis = svg2.append("g")
+      .attr("transform", "translate(0," + height1 + ")")
+      .call(d3.axisBottom(x).ticks(5));
+
+	  x_axis.selectAll("line")
+    .style("stroke", "grey");
+
+	x_axis.selectAll("path")
+    .style("stroke", "grey");
+
+	x_axis.selectAll("text")
+    .style("stroke", "grey");
+
+    // Add Y axis
+    var y = d3.scaleLinear()
+      .domain([8, d3.max(y_attr)])
+      .range([ height1, 0 ]);
+    y_axis =svg2.append("g")
+	.attr("transform", "translate(80,0)")//magic number, change it at will
+      .call(d3.axisLeft(y).ticks(10));
+
+	  y_axis.selectAll("line")
+    .style("stroke", "grey");
+
+	y_axis.selectAll("path")
+    .style("stroke", "grey");
+
+	y_axis.selectAll("text")
+    .style("stroke", "grey");
+
+    // Add the valueline path.
+    svg2.append("path")
+      .datum(data)
+      .attr("fill", "none")
+      .attr("stroke", "blue")
+      .attr("stroke-width", 1.5)
+      .attr("d", d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(Math.log(Math.pow(d.value1+0.001, 2))); }));
+
+	svg2.append("path")
+      .datum(data)
+      .attr("fill", "none")
+      .attr("stroke", "green")
+      .attr("stroke-width", 1.5)
+      .attr("d", d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(Math.log(Math.pow(d.value2+0.001, 2))); }));
+
+	svg2.append("text")
+    .attr("class", "x label")
+	.style("font-size", "12px") 
+    .attr("text-anchor", "end")
+    .attr("x", width/2+60)
+    .attr("y", height1 + 60)
+    .text("Time (in months)");
+
+	svg2.append("text")
+    .attr("class", "y label")
+    .attr("text-anchor", "end")
+    .attr("y", 36)
+    .attr("dy", ".55em")
+	.style("font-size", "12px") 
+    .attr("transform", "rotate(-90)")
+    .text("log(Number of Cases)");
+
+})
+//});
+
+// /* Apply the same logic you would to a regular chart,
+//    but append it to our tipSVG */
+// tipSVG.append("path")
+//      .datum(overdoses.filter((d) => { nameById[d.id] == current_state }))
+//      .style("stroke", rateById[d.id] < 10 ? "grey" : color(rateById[d.id]))
+//      .style("stroke-width", 1.5)
+//      .style("fill", "none")
+//      .attr("d", line)
+
+// // Same as above (this is the circle at the end of the line)
+// tipSVG.append("circle")
+//     .attr("fill", rateById[d.id] < 10 ? "grey" : color(rateById[d.id]))
+//     .attr("stroke", "black")
+//     .attr("cx", 130)
+//     .attr("cy", y_tooltip(rateById[d.id]))
+//     .attr("r", 3)
+
+// // Tooltip labelling on last value
+// tipSVG.append("text")
+//      .text(rateById[d.id] + " deaths")
+//      .attr("x", 140)
+//      .attr("y", y_tooltip(rateById[d.id]) < 15 ? 10
+//               : y_tooltip(rateById[d.id]) - 7)
+
+// // Same as above
+// tipSVG.append("text")
+//      .text("per 100,000")
+//      .attr("x", 140)
+//      .attr("y", y_tooltip(rateById[d.id]) < 15 ? 24
+//      		      : y_tooltip(rateById[d.id]) + 7)
+
+// State name
+tipSVG.append("text")
+     .text(current_state)
+     .attr("x", 0)
+     .attr("y", 15)
+     .style("font-size", 18)
+     .style("font-weight", 400)
+  })
+	.style("fill", function(d) {
+
+	// Get data value
+	var value = d.properties.visited;
+
+	if (value) {
+	//If value exists…
+	return "rgb(213,222,217)";
+	} else {
+	//If value is undefined…
+	return "rgb(213,222,217)";
+	}
+
+	
+	
+})
+
+svg.append('g').attr('class', 'labels')
+    .selectAll('.label').data(json.features).enter().append('text')
+        .attr("class", "halo")
+        .attr('transform', function(d) {
+            return "translate(" + path.centroid(d) + ")";
+        })
+        .attr("font-weight", 300)
+        .style('text-anchor', 'middle')
+        .style("font", "12px times")
+        .text(function(d) {
+            return abbrState(d.properties.name, 'abbr')
+        });
+		 
+
+// Modified Legend Code from Mike Bostock: http://bl.ocks.org/mbostock/3888852
+var legend = d3.select("body").append("svg")
+      			.attr("class", "legend")
+     			.attr("width", 140)
+    			.attr("height", 200)
+   				.selectAll("g")
+   				.data(color.domain().slice().reverse())
+   				.enter()
+   				.append("g")
+     			.attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  	legend.append("rect")
+   		  .attr("width", 18)
+   		  .attr("height", 18)
+   		  .style("fill", color);
+
+  	legend.append("text")
+  		  .data(legendText)
+      	  .attr("x", 24)
+      	  .attr("y", 9)
+      	  .attr("dy", ".35em")
+      	  .text(function(d) { return d; });
+	});
+
+});
+var tool_tip = d3.tip()
+  .attr("class", "d3-tip")
+  // If the mouse position is greater beyond ~ Kentucky/Missouri,
+  // Offset tooltip left instead of right
+  // Input the title, and include the div with an id of #tipDiv
+  .html(
+    "<p>Covid Cases and Mental Health Cases over time in</p><div id='tipDiv'></div><div id='tipDiv2'></div>"
+    );
+
+// Call it as a function to our app-wide SVG
+svg.call(tool_tip);	
+
+</script>
+<div id="graph">
+	
+</div>
+
+<div class="footer">
+	<p>&copy; Rohan Mittal, Sumanu Rawat, Purva Jhaveri, Arthur Wang</p>
+</div>
+
+</body>
+</html>

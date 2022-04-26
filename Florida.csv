@@ -1,0 +1,30 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,date,Time Period End Date,Value,Number of Respondents,value1,LowCI,HighCI,Confidence Interval,Quartile Range,value2
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,2,13,"Aug 19 - Aug 31, 2020",08/19/2020,08/31/2020,19,3794,720.86,16.4,21.7,16.4 - 21.7,18.5-20.5,203827
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,2,14,"Sep 2 - Sep 14, 2020",09/02/2020,09/14/2020,17.1,3709,634.239,14.7,19.6,14.7 - 19.6,11.2-18.8,130694
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,2,15,"Sep 16 - Sep 28, 2020",09/16/2020,09/28/2020,19.6,3294,645.624,17.1,22.4,17.1 - 22.4,19.2-21.3,88147
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,2,16,"Sep 30 - Oct 12, 2020",09/30/2020,10/12/2020,17.6,3058,538.208,15.2,20.1,15.2 - 20.1,13.0-19.0,74877
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,2,17,"Oct 14 - Oct 26, 2020",10/14/2020,10/26/2020,19.3,2781,536.733,16.9,21.9,16.9 - 21.9,19.2-21.1,73137
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Oct 28 ��� Dec 21),18,"Oct 28 - Nov 9, 2020",10/28/2020,11/09/2020,19.6,"1,936",379.456,16.5,22.9,16.5 - 22.9,13.7-19.7,87147
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Oct 28 ��� Dec 21),19,"Nov 11 - Nov 23, 2020",11/11/2020,11/23/2020,20,"2,227",445.4,16.8,23.4,16.8 - 23.4,13.2-20.1,119914
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Oct 28 ��� Dec 21),20,"Nov 25 - Dec 7, 2020",11/25/2020,12/07/2020,20,"2,360",472,17.5,22.7,17.5 - 22.7,13.2-20.2,177329
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Oct 28 ��� Dec 21),21,"Dec 9 - Dec 21, 2020",12/09/2020,12/21/2020,20.8,"2,340",486.72,17.9,24,17.9 - 24.0,20.2-23.1,230920
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Jan 6 ��� Mar 29),22,"Jan 6 - Jan 18, 2021",01/06/2021,01/18/2021,20.7,"2,399",496.593,16.8,25,16.8 - 25.0,20.1-21.9,338885
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Jan 6 ��� Mar 29),23,"Jan 20 - Feb 1, 2021",01/20/2021,02/01/2021,18.5,"2,854",527.99,15.8,21.4,15.8 - 21.4,11.2-20.4,371284
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Jan 6 ��� Mar 29),24,"Feb 3 - Feb 15, 2021",02/03/2021,02/15/2021,19.7,"2,814",554.358,16.3,23.4,16.3 - 23.4,19.5-22.8,335971
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Jan 6 ��� Mar 29),25,"Feb 17 - Mar 1, 2021",02/17/2021,03/01/2021,17,"2,795",475.15,14.5,19.7,14.5 - 19.7,12.2-19.7,244437
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Jan 6 ��� Mar 29),26,"Mar 3 - Mar 15, 2021",03/03/2021,03/15/2021,19.9,"2,802",557.598,17.4,22.7,17.4 - 22.7,11.3-20.2,181058
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3 (Jan 6 ��� Mar 29),27,"Mar 17 - Mar 29, 2021",03/17/2021,03/29/2021,16.4,"2,835",464.94,14.1,19,14.1 - 19.0,11.6-19.3,147398
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.1,28,"Apr 14 - Apr 26, 2021",04/14/2021,04/26/2021,17.6,"2,511",441.936,14.8,20.6,14.8 - 20.6,14.7-19.9,160192
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.1,29,"Apr 28 - May 10, 2021",04/28/2021,05/10/2021,20.1,"2,775",557.775,17.9,22.5,17.9 - 22.5,15.4-20.1,169197
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.1,30,"May 12 - May 24, 2021",05/12/2021,05/24/2021,18.9,"2,728",515.592,15.8,22.2,15.8 - 22.2,13.3-19.0,140471
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.1,31,"May 26 - Jun 7, 2021",05/26/2021,06/07/2021,21.3,"2,472",526.536,18.1,24.9,18.1 - 24.9,19.7-22.8,96702
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.1,32,"Jun 9 - Jun 21, 2021",06/09/2021,06/21/2021,19.6,"2,186",428.456,16,23.7,16.0 - 23.7,14.4-20.5,64014
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.1,33,"Jun 23 - Jul 5, 2021",06/23/2021,07/05/2021,18,"2,203",396.54,14.7,21.6,14.7 - 21.6,15.9-20.2,49216
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.2,34,"Jul 21 - Aug 2, 2021",07/21/2021,08/02/2021,21.5,"2,582",555.13,18.4,24.8,18.4 - 24.8,21.2-23.8,148894
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.2,35,"Aug 4 - Aug 16, 2021",08/04/2021,08/16/2021,22.2,"2,802",622.044,18.9,25.9,18.9 - 25.9,21.5-23.8,353965
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.2,36,"Aug 18 - Aug 30, 2021",08/18/2021,08/30/2021,21.1,"2,570",542.27,18.7,23.6,18.7 - 23.6,20.5-23.4,556266
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.2,37,"Sep 1 - Sep 13, 2021",09/01/2021,09/13/2021,21.4,"2,520",539.28,18.5,24.6,18.5 - 24.6,21.1-24.3,617729
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.2,38,"Sep 15 - Sep 27, 2021",09/15/2021,09/27/2021,20.7,"2,431",503.217,17.9,23.7,17.9 - 23.7,14.4-21.3,496471
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.2,39,"Sep 29 - Oct 11, 2021",09/29/2021,10/11/2021,17.3,"2,462",425.926,14.7,20.1,14.7 - 20.1,12.7-20.7,304164
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.3,40,"Dec 1 - Dec 13, 2021",12/01/2021,12/13/2021,21.1,1953,412.083,18.1,24.4,18.1 - 24.4,20.4-23.5,45077
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Florida,Florida,3.3,41,"Dec 29, 2021 - Jan 10, 2022",12/29/2021,01/10/2022,20.6,2538,522.828,17.6,23.8,17.6 - 23.8,20.5-24.2,401076

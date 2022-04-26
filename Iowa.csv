@@ -1,0 +1,30 @@
+Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,date,Time Period End Date,Value,Number of Respondents,value1,LowCI,HighCI,Confidence Interval,Quartile Range,value2
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,2,13,"Aug 19 - Aug 31, 2020",08/19/2020,08/31/2020,23.1,"1,678",387.618,19.9,26.5,19.9 - 26.5,22.6-26.8,13807
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,2,14,"Sep 2 - Sep 14, 2020",09/02/2020,09/14/2020,22.4,"1,651",369.824,19.7,25.4,19.7 - 25.4,21.3-22.8,20221
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,2,15,"Sep 16 - Sep 28, 2020",09/16/2020,09/28/2020,22.9,"1,421",325.409,19.4,26.7,19.4 - 26.7,21.4-22.9,23710
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,2,16,"Sep 30 - Oct 12, 2020",09/30/2020,10/12/2020,23.6,"1,407",332.052,20.2,27.3,20.2 - 27.3,22.5-32.1,23382
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,2,17,"Oct 14 - Oct 26, 2020",10/14/2020,10/26/2020,22.7,"1,398",317.346,19.6,26.1,19.6 - 26.1,21.2-24.1,27056
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Oct 28 ��� Dec 21),18,"Oct 28 - Nov 9, 2020",10/28/2020,11/09/2020,25.6,993,254.208,21.6,29.9,21.6 - 29.9,23.9-27.6,32301
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Oct 28 ��� Dec 21),19,"Nov 11 - Nov 23, 2020",11/11/2020,11/23/2020,26.1,"1,209",315.549,22,30.6,22.0 - 30.6,25.1-31.4,65946
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Oct 28 ��� Dec 21),20,"Nov 25 - Dec 7, 2020",11/25/2020,12/07/2020,22.3,"1,206",268.938,18.7,26.2,18.7 - 26.2,20.3-23.3,101827
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Oct 28 ��� Dec 21),21,"Dec 9 - Dec 21, 2020",12/09/2020,12/21/2020,27.1,"1,062",287.802,22.1,32.5,22.1 - 32.5,25.6-34.2,87473
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Jan 6 ��� Mar 29),22,"Jan 6 - Jan 18, 2021",01/06/2021,01/18/2021,25.7,992,254.944,22.1,29.5,22.1 - 29.5,24.6-28.5,43121
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Jan 6 ��� Mar 29),23,"Jan 20 - Feb 1, 2021",01/20/2021,02/01/2021,24,"1,133",271.92,20.2,28.1,20.2 - 28.1,23.1-24.9,38698
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Jan 6 ��� Mar 29),24,"Feb 3 - Feb 15, 2021",02/03/2021,02/15/2021,24.2,"1,232",298.144,20.7,28,20.7 - 28.0,22.9-24.6,34530
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Jan 6 ��� Mar 29),25,"Feb 17 - Mar 1, 2021",02/17/2021,03/01/2021,24.7,"1,166",288.002,20.8,28.9,20.8 - 28.9,22.7-24.7,23828
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Jan 6 ��� Mar 29),26,"Mar 3 - Mar 15, 2021",03/03/2021,03/15/2021,23.8,"1,129",268.702,20.1,27.8,20.1 - 27.8,22.8-23.8,17068
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3 (Jan 6 ��� Mar 29),27,"Mar 17 - Mar 29, 2021",03/17/2021,03/29/2021,22.6,"1,164",263.064,19.2,26.2,19.2 - 26.2,22.3-24.1,14096
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.1,28,"Apr 14 - Apr 26, 2021",04/14/2021,04/26/2021,22.9,833,190.757,18.4,27.9,18.4 - 27.9,21.1-23.8,14880
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.1,29,"Apr 28 - May 10, 2021",04/28/2021,05/10/2021,22.7,"1,096",248.792,19.1,26.6,19.1 - 26.6,20.2-22.7,13571
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.1,30,"May 12 - May 24, 2021",05/12/2021,05/24/2021,25.4,"1,069",271.526,21.6,29.4,21.6 - 29.4,24.8-29.2,10827
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.1,31,"May 26 - Jun 7, 2021",05/26/2021,06/07/2021,28.5,"1,032",294.12,24,33.3,24.0 - 33.3,25.2-29.5,7506
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.1,32,"Jun 9 - Jun 21, 2021",06/09/2021,06/21/2021,28.1,"1,012",284.372,23.8,32.8,23.8 - 32.8,25.0-29.2,4050
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.1,33,"Jun 23 - Jul 5, 2021",06/23/2021,07/05/2021,22.5,970,218.25,19.1,26.1,19.1 - 26.1,20.3-23.1,2445
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.2,34,"Jul 21 - Aug 2, 2021",07/21/2021,08/02/2021,23.8,924,219.912,20.5,27.5,20.5 - 27.5,21.2-23.8,3429
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.2,35,"Aug 4 - Aug 16, 2021",08/04/2021,08/16/2021,26.7,"1,080",288.36,23.4,30.1,23.4 - 30.1,25.9-30.8,8061
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.2,36,"Aug 18 - Aug 30, 2021",08/18/2021,08/30/2021,30.1,995,299.495,24.8,35.9,24.8 - 35.9,26.6-31.4,16509
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.2,37,"Sep 1 - Sep 13, 2021",09/01/2021,09/13/2021,26.1,941,245.601,22,30.5,22.0 - 30.5,24.4-26.1,26635
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.2,38,"Sep 15 - Sep 27, 2021",09/15/2021,09/27/2021,27.9,899,250.821,23.9,32.2,23.9 - 32.2,26.2-30.8,37104
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.2,39,"Sep 29 - Oct 11, 2021",09/29/2021,10/11/2021,24.1,828,199.548,19.9,28.7,19.9 - 28.7,20.8-24.1,45489
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.3,40,"Dec 1 - Dec 13, 2021",12/01/2021,12/13/2021,28.3,992,280.736,23,33.9,23.0 - 33.9,27.1-34.4,39008
+"Took Prescription Medication for Mental Health, Last 4 Weeks",By State,Iowa,Iowa,3.3,41,"Dec 29, 2021 - Jan 10, 2022",12/29/2021,01/10/2022,27.6,"1,169",322.644,23.8,31.7,23.8 - 31.7,26.7-30.9,47280
